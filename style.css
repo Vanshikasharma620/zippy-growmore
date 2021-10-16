@@ -294,7 +294,7 @@ video {
 }
 .contactt {
   width: 50%;
-  background-color: rgba(247, 247, 85, 0.596);
+  background-color: pink;
 }
 .contactt form {
   width: 300px;
@@ -326,6 +326,7 @@ footer {
 .address h4 {
   color: black;
   font-size: 0.8rem;
+  
 }
 .address span {
   font-size: 0.7rem;
